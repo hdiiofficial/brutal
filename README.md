@@ -1,4 +1,4 @@
-<p align="center">
+Up<p align="center">
 <a href="#"><img src="https://telegra.ph/file/513705cc3b283b556ef3c.png" alt="BRUTAL SPAM WHATSAPP" width="200" height="130"/></a>
 
 
@@ -34,6 +34,6 @@ apt install git -y
 apt install python -y
 git clone https://github.com/FatihArridho/brutal
 cd brutal
-pip install -r install.txt
-python brutal.py
+pip3 install -r install.txt
+python3 brutal.py
 ```
